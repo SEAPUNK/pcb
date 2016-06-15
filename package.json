@@ -1,0 +1,19 @@
+{
+  "name": "pcb",
+  "version": "0.0.0",
+  "description": "koa-inspired API framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SEAPUNK/pcb.git"
+  },
+  "author": "Ivan K <ivan@sq10.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SEAPUNK/pcb/issues"
+  },
+  "homepage": "https://github.com/SEAPUNK/pcb#readme"
+}
