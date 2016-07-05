@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/SEAPUNK/pcb/issues"
   },
-  "homepage": "https://github.com/SEAPUNK/pcb#readme"
+  "homepage": "https://github.com/SEAPUNK/pcb#readme",
+  "dependencies": {
+    "koa-compose": "^3.1.0",
+    "mini-copromise": "^3.0.1"
+  }
 }
