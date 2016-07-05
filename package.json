@@ -2,7 +2,7 @@
   "name": "pcb",
   "version": "0.0.0",
   "description": "koa-inspired API framework",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
